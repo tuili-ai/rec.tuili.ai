@@ -1,0 +1,9 @@
+{
+  "name": "TuiliRec - Ultimate",
+  "description": "Professional screen recorder with AI Interviewer and Teleprompter capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
